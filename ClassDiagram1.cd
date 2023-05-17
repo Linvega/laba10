@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="laba9.ClassTest">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goAAEAAAAAAQAQAAAAIAABCAAAAEBgAAEDAEAAAAABA=</HashCode>
+      <FileName>ClassTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba9.Form1">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCCAUTQQQmIAgBYAAGmT0QhDEMA4AAwCEEJwQwHQMAg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="obj_1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="laba9.Program">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba9.Form2">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEQQAQGAAgBAAACCAAABCEIA4AAACAAJgQwDQMAg=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba9.CustomMessage">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAQAACAAABAAACCAAABCgAAIAAAAAABAQwDAEAg=</HashCode>
+      <FileName>CustomMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
